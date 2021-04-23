@@ -1,0 +1,184 @@
+@charset 'utf-8';
+
+/*NotoSans*/
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 100;
+    src: local('NotoSans'),
+        url('NotoSansCJKkr-Thin.woff2') format('woff2'), 
+        url('NotoSansCJKkr-Thin.woff') format('woff'),
+        url('NotoSansCJKkr-Thin.ttf') format('truetype'),
+        url('NotoSansCJKkr-Thin.otf') format('opentype'),
+        url('NotoSansCJKkr-Thin.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 200;
+    src: local('NotoSans'),
+        url('NotoSansCJKkr-Light.woff2') format('woff2'), 
+        url('NotoSansCJKkr-Light.woff') format('woff'),
+        url('NotoSansCJKkr-Light.ttf') format('truetype'),
+        url('NotoSansCJKkr-Light.otf') format('opentype'),
+        url('NotoSansCJKkr-Light.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('NotoSans'),
+        url('NotoSansCJKkr-DemiLight.woff2') format('woff2'), 
+        url('NotoSansCJKkr-DemiLight.woff') format('woff'),
+        url('NotoSansCJKkr-DemiLight.ttf') format('truetype'),
+        url('NotoSansCJKkr-DemiLight.otf') format('opentype'),
+        url('NotoSansCJKkr-DemiLight.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NotoSans'),
+        url('NotoSansCJKkr-Regular.woff2') format('woff2'), 
+        url('NotoSansCJKkr-Regular.woff') format('woff'),
+        url('NotoSansCJKkr-Regular.ttf') format('truetype'),
+        url('NotoSansCJKkr-Regular.otf') format('opentype'),
+        url('NotoSansCJKkr-Regular.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('NotoSans'),
+        url('NotoSansCJKkr-Medium.woff2') format('woff2'), 
+        url('NotoSansCJKkr-Medium.woff') format('woff'),
+        url('NotoSansCJKkr-Medium.ttf') format('truetype'),
+        url('NotoSansCJKkr-Medium.otf') format('opentype'),
+        url('NotoSansCJKkr-Medium.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NotoSans'),
+        url('NotoSansCJKkr-Bold.woff2') format('woff2'), 
+        url('NotoSansCJKkr-Bold.woff') format('woff'),
+        url('NotoSansCJKkr-Bold.ttf') format('truetype'),
+        url('NotoSansCJKkr-Bold.otf') format('opentype'),
+        url('NotoSansCJKkr-Bold.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 900;
+    src: local('NotoSans'),
+        url('NotoSansCJKkr-Black.woff2') format('woff2'), 
+        url('NotoSansCJKkr-Black.woff') format('woff'),
+        url('NotoSansCJKkr-Black.ttf') format('truetype'),
+        url('NotoSansCJKkr-Black.otf') format('opentype'),
+        url('NotoSansCJKkr-Black.eot') format('embedded-opentype');
+}
+
+/*SCDream*/
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 100;
+    src: local('SCDream'),
+        url('SCDream1.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 200;
+    src: local('SCDream'),
+        url('SCDream2.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 300;
+    src: local('SCDream'),
+        url('SCDream3.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SCDream'),
+        url('SCDream4.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 500;
+    src: local('SCDream'),
+        url('SCDream5.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 600;
+    src: local('SCDream'),
+        url('SCDream6.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 700;
+    src: local('SCDream'),
+        url('SCDream7.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 800;
+    src: local('SCDream'),
+        url('SCDream8.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SCDream';
+    font-style: normal;
+    font-weight: 900;
+    src: local('SCDream'),
+        url('SCDream9.otf') format('opentype');
+}
+
+/*cafe24*/
+@font-face {
+    font-family: 'Cafe24Dangdanghae';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Cafe24Dangdanghae'),
+        url('Cafe24Dangdanghae.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Cafe24Simplehae';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Cafe24Simplehae'),
+        url('Cafe24Simplehae.ttf') format('truetype');
+}
+/*BlackHanSans*/
+@font-face {
+    font-family: 'BlackHanSans';
+    font-style: normal;
+    font-weight: 900;
+    src: local('BlackHanSans'),
+        url('BlackHanSans-Regular.ttf') format('truetype');
+}
